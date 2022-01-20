@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aozcann
+- 👋 Hi, I’m Ahmet
 - 👀 I’m interested in Bootcamp , Challenge , learning , and spesificly python
 - 🌱 I’m currently learning python , sql
 - 💞️ I’m looking to collaborate on ...
