@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmet
 - 👀 I’m interested in Bootcamp , Challenge , learning , and spesificly python
-- 🌱 I’m currently learning python , sql
+- 🌱 I’m currently learning python , sql , Java Spring
 - 📫 How to reach me , u can contect with me on ozcanahmet94@gmail.com
 
 <!---
