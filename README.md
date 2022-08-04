@@ -39,7 +39,7 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aozcann&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aozcann&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&"%20alt="ovi]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aozcann&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&"%20alt="ovi)](https://github.com/aozcann)
 
 <!---
 aozcann/aozcann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
