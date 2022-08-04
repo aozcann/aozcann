@@ -6,6 +6,7 @@
  - Linkedin: https://www.linkedin.com/in/-ahmetozcan
 
 [![image](https://img.shields.io/badge/AhmetOZCAN-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozcanahmet94@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/AhmetOZCAN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-ahmetozcan/)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/aozcann)
