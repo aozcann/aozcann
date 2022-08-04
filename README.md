@@ -1,10 +1,11 @@
 
-[![image](https://img.shields.io/badge/AhmetOZCAN-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozcanahmet94@gmail.com)
 
 - 👋 Hi, I’m Ahmet
 - 👀 I’m interested in Bootcamp , Challenge , learning 
 - 🌱 I’m currently learning python , sql , Java Spring
  - Linkedin: https://www.linkedin.com/in/-ahmetozcan
+
+[![image](https://img.shields.io/badge/AhmetOZCAN-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozcanahmet94@gmail.com)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/aozcann)
