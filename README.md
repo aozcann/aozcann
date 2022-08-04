@@ -27,7 +27,7 @@
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> </code>
-   <code><img height="50" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.html"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
 
 
