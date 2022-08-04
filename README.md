@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bootcamp , Challenge , learning 
 - 🌱 I’m currently learning python , sql , Java Spring
 - 📫 How to reach me , u can contect with me on ozcanahmet94@gmail.com
- - Linkedin: https://www.linkedin.com/in/-aozcann
+ - Linkedin: https://www.linkedin.com/in/-ahmetozcan
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/aozcann)
