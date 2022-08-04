@@ -1,7 +1,9 @@
+
+[![image](https://img.shields.io/badge/AhmetOZCAN-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozcanahmet94@gmail.com)
+
 - 👋 Hi, I’m Ahmet
 - 👀 I’m interested in Bootcamp , Challenge , learning 
 - 🌱 I’m currently learning python , sql , Java Spring
-- 📫 How to reach me , u can contect with me on ozcanahmet94@gmail.com
  - Linkedin: https://www.linkedin.com/in/-ahmetozcan
 
 
