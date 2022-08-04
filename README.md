@@ -28,6 +28,7 @@
   <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 </p>
 
 
