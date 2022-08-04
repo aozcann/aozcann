@@ -8,6 +8,20 @@
 [![image](https://img.shields.io/badge/AhmetOZCAN-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozcanahmet94@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/AhmetOZCAN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-ahmetozcan/)
 
+### 🛠️👉 Programming languages
+
+<p align="left"> 
+  &emsp;
+  <a href="">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
+  </a>
+    &emsp;
+  <a href="">
+    <img alt="Ruby" src="https://img.shields.io/badge/sql-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
+  </a>
+      &emsp;
+</p>
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/aozcann)
 
