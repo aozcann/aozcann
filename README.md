@@ -36,7 +36,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/aozcann)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=aozcann&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs?username=aozcann&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&"%20alt="ovi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizCil)](https://github.com/aozcann)
 <!---
