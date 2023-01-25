@@ -15,11 +15,21 @@
     <img alt="Ruby" src="https://img.shields.io/badge/sql-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
   </a>
       &emsp;
+    <a href="">
+    <img alt="Ruby" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"/>
+  </a>
+      &emsp;
+    <a href="">
+    <img alt="Ruby" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
+  </a>
+      &emsp;
 </p>
 
 ### 🛠️👉  Frameworks Tools & Technologies..
 <p align="left">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
